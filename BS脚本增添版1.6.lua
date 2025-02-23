@@ -32,7 +32,7 @@ Tab:AddParagraph("作者游戏名老大二世")
 Tab:AddParagraph("作者QQ1545959422")
 Tab:AddParagraph("副作者QQ1710433791")
 Tab:AddParagraph("增添版作者QQ2319127160")
-Tab:AddParagraph("非常感谢QQ3928145450生成脚本")
+Tab:AddParagraph("由小欣生成脚本")
 Tab:AddParagraph("原作者已停止更新")
 Tab:AddParagraph("Q群813485162")
 Tab:AddParagraph("现作者Q2770967217")
@@ -4002,7 +4002,7 @@ local Section = Tab:AddSection({
 })
 
 Tab:AddButton({
-  Name = "黑洞脚本(环绕v1)汉化",
+  Name = "黑洞脚本(环绕v1)小欣汉化",
   Callback = function()
   loadstring(game:HttpGet("https://raw.githubusercontent.com/xiao-xin-create/Super-Ring-Parts-V1/refs/heads/main/Super%20Ring%20Parts%20V1.lua"))()
   end
@@ -4016,7 +4016,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BOOSBS/666/refs/heads
 })
 
 Tab:AddButton({
-  Name = "黑洞脚本(环绕v3)汉化",
+  Name = "黑洞脚本(环绕v3)小欣汉化",
   Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xiao-xin-create/Super-Ring-Parts/refs/heads/main/Super%20Ring%20Parts%20v3.lua"))()
   end
